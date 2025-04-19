@@ -103,7 +103,7 @@
 
    <!-- Playlist Button above Search Results -->
      <div class="button-container" id="goto-playlist-container" style="display: none;">
-       <button id="goto-playlist">Go to Playlists</button>
+       <button id="goto-playlist">Go to Playlist</button>
      </div>
 
 <!-- Search output section -->

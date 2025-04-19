@@ -375,51 +375,6 @@ input {
   padding: 20px;
   width: 100%;
 }
-/* JS-exported styles */
-.added-label {
-  font-weight: bold;
-  color: #3E9E6F;
-  margin-left: 10px;
-  font-size: 16px;
-}
-
-.disabled-add {
-  background-color: #ccc;
-  cursor: default;
-}
-
-.column-layout {
-  flex-direction: column;
-}
-
-.playlist-toggle-btn {
-  font-size: 18px;
-  margin-left: 10px;
-}
-
-.playlist-song-list {
-  margin-top: 10px;
-}
-
-.playlist-song-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 8px 0;
-  border-top: 1px solid #ccc;
-}
-
-.playlist-song-controls {
-  display: flex;
-  align-items: center;
-}
-
-.empty-message {
-  text-align: center;
-}
-.hidden {
-  display: none;
-}
 
 footer {
     position: bottom;
